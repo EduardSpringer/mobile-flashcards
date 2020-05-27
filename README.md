@@ -27,5 +27,5 @@ The project can be run with
 - Select in Metro Bundler to start the simulator:
     - Run on iOS
 
-The project was tested on iOS simulator (IPhone SE 2nd generation).
+The project was tested on iOS simu∆lator (IPhone SE 2nd generation).
 
